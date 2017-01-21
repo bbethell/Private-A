@@ -1,0 +1,5 @@
+[VSRX]
+
+VSRX ansible_ssh_host=172.30.92.86 ansible_ssh_user=root ansible_ssh_pass=eyenot2!
+
+[VMX]
